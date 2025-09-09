@@ -3,7 +3,7 @@ This project demonstrates an end-to-end data analytics workflow using MY SQL and
 # 📊 Bank Loan Analysis – SQL + Power BI
 
 ## 📖 Description
-This project demonstrates an **end-to-end data analytics workflow** using **Ms SQL** and **Power BI**.  
+This project demonstrates an **end-to-end data analytics workflow** using **My SQL** and **Power BI**.  
 The goal was to analyze a bank’s loan portfolio and uncover insights into **loan applications, repayments, borrower profiles, and risk categories**.
 
 - **SQL** → Data cleaning, KPI calculations, business queries  
